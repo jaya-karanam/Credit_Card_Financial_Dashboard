@@ -6,9 +6,9 @@ Power BI Dsdhbosrd
 
 💢 Week-over-Week Change:
 
-Revenue increased by 28.8%.
-Total transaction amount and count increased significantly.
-Notable rise in customer count.
+Revenue increased by 28.8%.<br />
+Total transaction amount and count increased significantly.<br />
+Notable rise in customer count.<br />
 💢Year-to-Date Overview:
 
 Overall revenue reached 57M.
