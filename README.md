@@ -1,5 +1,5 @@
 # Credit_Card_Financial_Dashboard
-Power BI Dsdhbosrd
+Power BI Dashboard
 💢 Objective: Develop a comprehensive credit card weekly dashboard for monitoring key performance metrics and trends.<br /> 💢 Tools Used: Microsoft Power BI, Data sources (MySQL, Excel)
 
 ⚡Insights from the Dashboard:
